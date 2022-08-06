@@ -5,4 +5,7 @@ public class Directivo {
         System.out.println("");
     }
 
+    Empleado Carlos = new Empleado();
+    Empleado Pedro = new Empleado();
+
 }
